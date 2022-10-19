@@ -1,0 +1,444 @@
+{
+  "name": "The Umami Poisoner",
+  "description": "Contains recipes for creating rare poisons",
+  "ownership": {
+    "rqEOxzm9pWZpMhH4": "2",
+    "QAdDWUaUNK09Iq3x": "2",
+    "GOvXOrkQSzey7yZ5": "2",
+    "56XvGn6U8R9S2vlW": "2",
+    "HHjDcylTiWQFDEbS": "2"
+  },
+  "tools": "Poisoner's Kit",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Burnt Orthur Fumes",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.f9G9joeHSclgyXNL",
+              "quantity": 1,
+              "name": "Ashblossom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.XsePsNGNXztjGhqt",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.HTPPWRpqCtxroDYd",
+              "quantity": 1,
+              "name": "Burnt Othur Fumes (Inhaled)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Devil's Powder",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A hyper fine, red powder with a faintly smoky aroma, this powder is to be blown into the face of the target before dispersing harmlessly into the air. The target has to make a DC 18 Charisma Saving throw. On a failed save, the target experiences an altered version of reality where it perceives the world as a hellscape inhabited by foul creatures and becomes extremely vulnerable to intimidation, aggressive forms of persuasion and deception for 1 hour. On a successful save, the target becomes slightly paranoid and skittish.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.2Q5eat8DBOS7E7Xf",
+              "quantity": 1,
+              "name": "Angel's Trumpet"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.hJMFlmpilZ8LpVKE",
+              "quantity": 1,
+              "name": "Blight Spores"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.OlHm63B7QG6Yk8EZ",
+              "quantity": 1,
+              "name": "Devil's Powder"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/salt-seasoning-spice-pink.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Dracula's Essence",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "To be kept in a crystal vial, this poison looks like a small vial of fresh blood, but is always in motion, seemingly trying to escape it vessel. Upon opening the vial, it falls still and turns into a rust coloured liquid. When this potion is drank or comes in contact with the blood vial an injury or injection, it forces the target to make a DC 18 Constitution saving throw. On a success, the target retches the entire content of its stomach and takes 2d8 poison damage.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.0Lapqd8kzpmS0R0z",
+              "quantity": 1,
+              "name": "Dracula's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.FL1DOoV7dEZ4YmsH",
+              "quantity": 1,
+              "name": "Dragon's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.S9WUHdPbBP3XPpJO",
+              "quantity": 1,
+              "name": "Bloodroot"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.PesWw8Dh27Q7hqCB",
+              "quantity": 1,
+              "name": "Red Amanita Mushroom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.mguaqQrM3KQ3JTLi",
+              "quantity": 1,
+              "name": "Dracula's Essence"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/vial-cork-red.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Drow Poison",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be Poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also Unconscious while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.yCtZ2e5lV2ehnECa",
+              "quantity": 1,
+              "name": "Drider Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.B6DIfwy19Ts5ikHU",
+              "quantity": 1,
+              "name": "Mandrake Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.world.ddb-pcandg-items.3sWcIOW3ptzVHclM",
+              "quantity": 1,
+              "name": "Drow Poison (Injury)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Essence of Ether",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.PpZ5ysLIab4PNiCL",
+              "quantity": 1,
+              "name": "Nightshade"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.B6DIfwy19Ts5ikHU",
+              "quantity": 1,
+              "name": "Mandrake Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.APBEyAEY0D23XRCW",
+              "quantity": 1,
+              "name": "Essence of Ether (Inhaled)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/materials/bowl-powder-grey.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Magebane",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This potion looks like red wine but smells like old boots. Upon drinking it, the consumer gains the mage slayer feat for 1 minute.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Ag50fstRwIuLyrhr",
+              "quantity": 1,
+              "name": "Wolfsbane"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.yCtZ2e5lV2ehnECa",
+              "quantity": 1,
+              "name": "Drider Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.ilkJBDWZgW16fnmd",
+              "quantity": 1,
+              "name": "Serpent's Venom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.i2se49eebXjBOmOT",
+              "quantity": 1,
+              "name": "Magebane"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/drinks/wine-amphora-clay-red.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Oil of Taggit",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become Poisoned for 24 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.BdmLXPQWZ023gdiY",
+              "quantity": 1,
+              "name": "Oil (flask)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Ag50fstRwIuLyrhr",
+              "quantity": 1,
+              "name": "Wolfsbane"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.2doouzb9Y9KeO8rT",
+              "quantity": 1,
+              "name": "Oil of Taggit (Contact)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Thessaltoxin",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a DC 15 Constitution saving throw or take on a new form as if affected by the polymorph spell. The creature’s new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target’s next long rest. This effect is not subject to dispel magic or remove curse, but a greater restoration spell restores the creature to its original form.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.0Lapqd8kzpmS0R0z",
+              "quantity": 1,
+              "name": "Dracula's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.WeMebyyH2jXTQtTH",
+              "quantity": 1,
+              "name": "Black Cap Mushroom"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.JJzwN0uJzLRrK5LH",
+              "quantity": 1,
+              "name": "Thessaltoxin"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Torpor",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is Incapacitated.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.B6DIfwy19Ts5ikHU",
+              "quantity": 1,
+              "name": "Mandrake Root"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.MkUnBgXfcD2QwUwN",
+              "quantity": 1,
+              "name": "Lightning Moss"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.DvsP0UXceEf4uoTa",
+              "quantity": 1,
+              "name": "Torpor (Ingested)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/laboratory/bowl-mixing.webp",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "documentName": "RecipeBook"
+}
