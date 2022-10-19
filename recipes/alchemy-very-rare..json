@@ -253,16 +253,6 @@
               "name": "Ectoplasm"
             }
           ]
-        },
-        {
-          "name": null,
-          "components": [
-            {
-              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.oquayQZ25uK2MH2u",
-              "quantity": 1,
-              "name": "Potion of Possibility"
-            }
-          ]
         }
       ],
       "products": [

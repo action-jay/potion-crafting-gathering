@@ -46,17 +46,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.EC6eExyd5yiNlzpo",
-              "quantity": 1,
-              "name": "Angel's Powder"
-            }
-          ]
-        },
-        {
-          "name": null,
-          "components": [
-            {
-              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.EC6eExyd5yiNlzpo",
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.LACxgInxIOos3xaf",
               "quantity": 1,
               "name": "Angel's Powder"
             }
@@ -139,7 +129,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.eIAjXqnKtynGrIRx",
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.yXlEdxbGry90qtyN",
               "quantity": 1,
               "name": "Bane Berry Extract"
             }
@@ -183,7 +173,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Hfnzyvz27aVTbGXr",
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Ah8N6bwh8wFtFByR",
               "quantity": 1,
               "name": "Black Paste"
             }
