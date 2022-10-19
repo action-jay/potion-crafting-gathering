@@ -1,6 +1,6 @@
 This contains compendium db files and roll tables for gathering materials and crafting items using an Herbalism, Alchemist, and Poisoner kits
 
-Manifest file to install automatically in Foundry: https://github.com/action-jay/potion-crafting-gathering/releases/latest/module.json
+Manifest file to install automatically in Foundry: https://github.com/action-jay/potion-crafting-gathering/releases/latest/download/module.json
 
 The material referenced here comes from "Potion Brewing and Ingredient Gathering for DnD 5e" by piccolo917 available free on GM Binder at https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV
 
