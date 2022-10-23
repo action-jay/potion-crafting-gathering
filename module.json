@@ -17,6 +17,9 @@
       "discord": "action.jay#4322"
     }
   ],
+  "scripts": [
+    "scripts/module.js"
+  ],
       "packs": [
         {
             "name": "potion-crafting-and-gathering-ingredients",
