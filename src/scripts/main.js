@@ -33,7 +33,7 @@ export const readyHooks = async () => {
     await game.settings.set(CONSTANTS.MODULE_ID, "booksImported", false);
   }
 
-  new Dialog.confirm({
+  Dialog.confirm({
     title: "Potion Crafting & Gathering",
     content: "Do you want to import all tables, journals and recipes?",
     yes: () => {

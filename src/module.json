@@ -2,7 +2,7 @@
   "id": "potion-crafting-and-gathering",
   "title": "Potion Crafting & Gathering",
   "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "authors": [
     {
       "name": "Action Jay",
@@ -60,42 +60,42 @@
     {
       "name": "potion-crafting-and-gathering-ingredients",
       "label": "Potion Crafting & Gathering Ingredients",
-      "path": "packs/potion-crafting-and-gathering-ingredients.db",
+      "path": "packs/potion-crafting-and-gathering-ingredients",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "potion-crafting-and-gathering-alchemy",
       "label": "Potion Crafting & Gathering Alchemy",
-      "path": "packs/potion-crafting-and-gathering-alchemy.db",
+      "path": "packs/potion-crafting-and-gathering-alchemy",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "potion-crafting-and-gathering-herbalism",
       "label": "Potion Crafting & Gathering Herbalism",
-      "path": "packs/potion-crafting-and-gathering-herbalism.db",
+      "path": "packs/potion-crafting-and-gathering-herbalism",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "potion-crafting-and-gathering-poisons",
       "label": "Potion Crafting & Gathering Poisons",
-      "path": "packs/potion-crafting-and-gathering-poisons.db",
+      "path": "packs/potion-crafting-and-gathering-poisons",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "potion-crafting-and-gathering-journal",
       "label": "Potion Crafting & Gathering Journal",
-      "path": "packs/potion-crafting-and-gathering-journal.db",
+      "path": "packs/potion-crafting-and-gathering-journal",
       "type": "JournalEntry",
       "system": "dnd5e"
     },
     {
       "name": "potion-crafting-and-gathering-tables",
       "label": "Potion Crafting & Gathering Tables",
-      "path": "packs/potion-crafting-and-gathering-tables.db",
+      "path": "packs/potion-crafting-and-gathering-tables",
       "type": "RollTable",
       "system": "dnd5e"
     }
@@ -111,8 +111,8 @@
   },
   "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering",
-  "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.5.1/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.5.1/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.5.2/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.5.2/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/issues",
