@@ -1,0 +1,604 @@
+{
+  "name": "The Steeped Alchemist",
+  "description": "Contains recipes for crafting rare Alchemical Concoctions",
+  "ownership": {},
+  "tools": "Alchemist's Supplies",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Ink (Very Rare)",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "1 ounce bottle used in writing. Sufficient for Lvl. 6-8 spell scroll crafting.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.RPIaybBhCR5X8nyM",
+              "quantity": 1,
+              "name": "Charcoal"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.SMab7kAjsYtxGJKJ",
+              "quantity": 1,
+              "name": "Willowshade Fruit"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.DV72ygEGCy6YXUyE",
+              "quantity": 1,
+              "name": "Ink (Very Rare)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Oil of Dragon's Bane",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This oil can coat a single weapon for 3 uses, or up to 3 pieces of ammunition can be dipped in the oil for 1 use each. A dragon that takes damage from a weapon or piece of ammunition covered in the oil takes an additional 6d6 damage from the attack. The oil dries after 1 hour and becomes inert.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.FL1DOoV7dEZ4YmsH",
+              "quantity": 1,
+              "name": "Dragon's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.k8aljL25K5d4mHOF",
+              "quantity": 1,
+              "name": "Wyvern Poison"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Ii5gy259isUXMqSg",
+              "quantity": 1,
+              "name": "Oil of Dragon's Bane"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Gaseous Form",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, you gain the effect of the gaseous form spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.OQAPiXDbXeOTP5TD",
+              "quantity": 1,
+              "name": "Ectoplasm"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.ZxuFEfo7SerKMoMR",
+              "quantity": 1,
+              "name": "Singing Nettle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.9HkCG49rFoI8DMLI",
+              "quantity": 1,
+              "name": "Potion of Gaseous Form"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Giant Strength",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score. The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.4ybCoZqAMDLiQsmb",
+              "quantity": 1,
+              "name": "Frost Lichen"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.A9RbPBHYwoNK1OpV",
+              "quantity": 1,
+              "name": "Giant's Fingernail"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.JN5rimyT8P5RDjnA",
+              "quantity": 1,
+              "name": "Potion of Giant Strength"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-circular-corked-labeled-green.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Mana",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Vibrant blue and deeply purple, studded with dots of white and silver, this potion reminds of the night sky. When agitated, it lets out a soft, purple light. After drinking this potion, the user regains 4 Recovery Points similar to the wizard’s Arcane Recovery or regains 4 sorcery points.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.WglM0mvztSmJL7Lv",
+              "quantity": 1,
+              "name": "Pixie's Parasol"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.IvLk97TKspuqU1eX",
+              "quantity": 1,
+              "name": "Silverthorn"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.FL1DOoV7dEZ4YmsH",
+              "quantity": 1,
+              "name": "Dragon's Blood"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Ni8DI1Zn9li3vzGT",
+              "quantity": 1,
+              "name": "Potion of Mana"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of True Dreaming",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Black as the void, this liquid appears to flash in bright colours when looked at through the corner of one’s eye. When you drink this potion before falling asleep, your dreams show you true visions of of the past, present or possible future events related to a creature, location or object of your choosing. The DM determines the nature and duration of these visions.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.XZe2WSquLSLKzHrm",
+              "quantity": 1,
+              "name": "Nothic Tears"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.SMab7kAjsYtxGJKJ",
+              "quantity": 1,
+              "name": "Willowshade Fruit"
+            },
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.MdAPFn646hCxbo7D",
+              "quantity": 1,
+              "name": "Willowshade Oil"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.HYLFCu9GlUmXbJcH",
+              "quantity": 1,
+              "name": "Potion of True Dreaming"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Oil of Etherealness",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Beads of this cloudy grey oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the etherealness spell for 1 hour.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.OQAPiXDbXeOTP5TD",
+              "quantity": 1,
+              "name": "Ectoplasm"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.BdmLXPQWZ023gdiY",
+              "quantity": 1,
+              "name": "Oil (flask)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.mkS93V9FDtR6k0JI",
+              "quantity": 1,
+              "name": "Oil of Etherealness"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Clairvoyance",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, you gain the effect of the clairvoyance spell for 10 minutes. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.q56qk1upHBqOeFo0",
+              "quantity": 1,
+              "name": "Morning Dew"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.B6DIfwy19Ts5ikHU",
+              "quantity": 1,
+              "name": "Mandrake Root"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.KQ0CCqBtrOoycN5x",
+              "quantity": 1,
+              "name": "Potion of Clairvoyance"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Diminution",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, you gain the \"reduce\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.WglM0mvztSmJL7Lv",
+              "quantity": 1,
+              "name": "Pixie's Parasol"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.XsePsNGNXztjGhqt",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.6IfVTFhqoV1XLltR",
+              "quantity": 1,
+              "name": "Potion of Diminution"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Heroism",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required). This blue potion bubbles and steams as if boiling.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.qXk27yXG0KVONssI",
+              "quantity": 1,
+              "name": "Hagfinger"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.8U61IScvrNcit1ZJ",
+              "quantity": 1,
+              "name": "Cat's Tongue"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Q6fYSgZiPZjXLim8",
+              "quantity": 1,
+              "name": "Potion of Heroism"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Invulnerability",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "For 1 minute after you drink this potion, you have Resistance to all damage. The potion's syrupy liquid looks like liquefied iron.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.dJfTixoUfWKnFxkH",
+              "quantity": 1,
+              "name": "Lightning Struck Metal"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.world.ddb-pcandg-items.G7to2Rc0QfMXUHoX",
+              "quantity": 1,
+              "name": "Potion of Invulnerability"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Potion of Mind Reading",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "When you drink this potion, you gain the effect of the detect thoughts spell (DC 13 Wisdom saving throw) for 10 minute. The potion's dense, purple liquid has an ovoid cloud of pink floating in it.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.ebflYPaV5OfihxDW",
+              "quantity": 1,
+              "name": "Mindflayer Stinkhorn"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.XsePsNGNXztjGhqt",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.world.ddb-pcandg-items.VoNuxKAMcZueGMOr",
+              "quantity": 1,
+              "name": "Potion of Mind Reading"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Thor's Might",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A churning mass of a deep blue liquid, shot through with white streaks that remind of lightning. The container which holds this potion always shakes and quivers slightly. After drinking this potion, upon hitting a target with a melee weapon attack let’s out thunderous crack that deals an extra 1d6 thunder damage for 1 minute, there is no limit to how often it can be used within this timespan.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.oJHIjX6NgapONg7e",
+              "quantity": 1,
+              "name": "Air Elemental Wisp"
+            },
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.A9RbPBHYwoNK1OpV",
+              "quantity": 1,
+              "name": "Giant's Fingernail"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.MkUnBgXfcD2QwUwN",
+              "quantity": 1,
+              "name": "Lightning Moss"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.ZxuFEfo7SerKMoMR",
+              "quantity": 1,
+              "name": "Singing Nettle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.mb8AMSs0FCZkbjrq",
+              "quantity": 1,
+              "name": "Thor's Might"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-round-stopped-yellow-green.webp",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-potion-blue.webp",
+  "documentName": "RecipeBook"
+}
