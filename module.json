@@ -17,7 +17,7 @@
       "discord": "action.jay#4322"
     }
   ],
-  "scripts": [
+  "esmodules": [
     "scripts/module.js"
   ],
       "packs": [

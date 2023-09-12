@@ -1,5 +1,18 @@
-Hooks.once('init', function() {
-    game.settings.register('potion-crafting-and-gathering', 'booksImported', {
+const MODULE_ID = 'potion-crafting-and-gathering';
+
+const CONSTS = {
+    MODULE_ID: MODULE_ID,
+    MODULE_FOLDER: `modules/${MODULE_ID}/recipes`,
+    PACKS: [
+        "potion-crafting-and-gathering-tables",
+        "potion-crafting-and-gathering-journal"
+    ]
+}
+
+//Don't need to change anything below this line
+
+Hooks.once('init', function () {
+    game.settings.register(CONSTS.MODULE_ID, 'booksImported', {
         name: "Import Content on startup",
         hint: "",
         scope: "world",
@@ -12,10 +25,10 @@ Hooks.once('init', function() {
 
 Hooks.once('ready', async function() {
 
-    if (!game.settings.get('potion-crafting-and-gathering', 'booksImported') || !game.user.isGM) return
+    if (!game.user.isGM || !game.settings.get(CONSTS.MODULE_ID, 'booksImported')) return
 
     async function importAll(){
-        const ROOT = "modules/potion-crafting-and-gathering/recipes";
+        const ROOT = CONSTS.MODULE_FOLDER;
         const BOOKS = (await FilePicker.browse("user", ROOT)).files.filter(f => f.endsWith(".json"));
         for (let book of BOOKS) {
             const bookData = await fetch(book).then(r => r.json());
@@ -23,20 +36,21 @@ Hooks.once('ready', async function() {
             await bookObj.saveData();
         }
         ui.notifications.notify("Potion Crafting & Gathering - Recipe Books Imported");
-        await game.packs.get("potion-crafting-and-gathering.potion-crafting-and-gathering-tables").importAll({keepId : true});
-        await game.packs.get("potion-crafting-and-gathering.potion-crafting-and-gathering-journal").importAll({keepId : true});
+        for (const pack of CONSTS.PACKS) {
+            await game.packs.get(`${MODULE_ID}.${pack}`).importAll({keepId : true});
+        }
         new ui.RecipeApp().render(true);
-        await game.settings.set('potion-crafting-and-gathering', 'booksImported', false);
+        await game.settings.set(CONSTS.MODULE_ID, 'booksImported', false);
     }
 
     Dialog.confirm({
-        title: "Potion Crafting & Gathering",
+        title: game.modules.get(CONSTS.MODULE_ID).title,
         content: "Do you want to import all tables, journals and recipes?",
         yes: () => {
             importAll();
         },
         no: () => {
-            game.settings.set('potion-crafting-and-gathering', 'booksImported', false);
+            game.settings.set(CONSTS.MODULE_ID, 'booksImported', false);
         },
         defaultYes: true
     })
