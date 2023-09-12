@@ -1,1 +1,0 @@
-These recipes can be imported into theripper93's Mastercrafted module. Working on a way to automate this, but for now you'll need to create a placeholder recipe book, then right click and import the desired collection from these files.

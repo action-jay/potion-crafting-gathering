@@ -1,0 +1,224 @@
+{
+  "name": "The Ghost Pepper Poisoner",
+  "description": "Contains recipes for creating very rare poisons",
+  "ownership": {
+    "rqEOxzm9pWZpMhH4": "2",
+    "QAdDWUaUNK09Iq3x": "2",
+    "GOvXOrkQSzey7yZ5": "2",
+    "56XvGn6U8R9S2vlW": "2",
+    "HHjDcylTiWQFDEbS": "2"
+  },
+  "tools": "Poisoner's Kit",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Deathsleep",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature that ingests this poison must succeed at DC 19 Constitution saving throw or become poisoned for 24 hours. The poisoned creature appears to be dead, and only succeeding a DC 20 Medicine check can determine otherwise.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.lkaYAV7KTxFDsfoB",
+              "quantity": 1,
+              "name": "Tea of Refreshment"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.RirFeyOudF936MLm",
+              "quantity": 1,
+              "name": "Purple Worm Poison"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.dpuvQyo5X6Ao8V1Z",
+              "quantity": 1,
+              "name": "Deathsleep"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Essence of Rage",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A brown potion with the consistency of mud, it turns into a clear, violently red potion when agitated with more than the lightest touch. Drinking the potion provides the Rage ability of the Barbarian class for 30 seconds. When directly brought in contact with the blood of a creature through injury or injection, it forces the target to make a DC 16 Constitution throw. On a successful save, the target gets the Rage ability of the Barbarian class for 60 seconds. On a failed save, the target is forced into the Rage ability of the Barbarian class for 30 seconds and forced to attack the closest target with melee attacks. Starting on the 2nd turn after the potion is applied, the target can make another Constitution saving throw. On a success, all effects end. This potion has no effect on constructs or the undead.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.FL1DOoV7dEZ4YmsH",
+              "quantity": 1,
+              "name": "Dragon's Blood"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.XsePsNGNXztjGhqt",
+              "quantity": 1,
+              "name": "Moonstalker"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.dJfTixoUfWKnFxkH",
+              "quantity": 1,
+              "name": "Lightning Struck Metal"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.3snkJrMRtaerbjgW",
+              "quantity": 1,
+              "name": "Essence of Rage"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Midnight Tears",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.ZTXmBm0pYhuK5AxE",
+              "quantity": 1,
+              "name": "Death Cap"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.M6NM0PSPlkHUHTdO",
+              "quantity": 1,
+              "name": "Ankheg Ichor"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.ULxdo50cAouXw76k",
+              "quantity": 1,
+              "name": "Midnight Tears (Ingested)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+      "ownership": {}
+    },
+    {
+      "name": "Water of Death",
+      "macroName": "",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "This liquid looks, smells and tastes like water. Even the majority of alchemic and magical tests on this liquid cannot distinguish it from water. Only the spell Identify cast as a level 7 or higher or detailed alchemic test, lasting 24 hours and costing 300 gp, will reveal that this liquid is actually one of the deadliest poisons in existence.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.WeMebyyH2jXTQtTH",
+              "quantity": 1,
+              "name": "Black Cap Mushroom"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.k8aljL25K5d4mHOF",
+              "quantity": 1,
+              "name": "Wyvern Poison"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.jjxoFljmT5atbIT8",
+              "quantity": 1,
+              "name": "Dreamlily"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.qXk27yXG0KVONssI",
+              "quantity": 1,
+              "name": "Hagfinger"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Vj2N2FKwqvqGw8FJ",
+              "quantity": 1,
+              "name": "Water of Death"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+  "documentName": "RecipeBook"
+}
