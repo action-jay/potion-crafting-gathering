@@ -1,3 +1,5 @@
+**if you found this, you're looking at the original module. Refer to https://foundryvtt.com/packages/potion-crafting-and-gathering for the one officially adopted and maintained by TheRipper93**
+
 This contains compendium db files and roll tables for gathering materials and crafting items using an Herbalism, Alchemist, and Poisoner kits
 
 Manifest file to install automatically in Foundry: https://github.com/action-jay/potion-crafting-gathering/releases/latest/download/module.json
